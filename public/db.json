@@ -1,0 +1,41 @@
+[{
+  "id":1,
+  "city": "Hyderabad",
+  "place": "Golconda Fort",
+  "rating": 8,
+  "price": 2500,
+  "about":"monument"
+
+},
+{
+  "id":2,
+  "city": "Hyderabad",
+  "place": "Charminar",
+  "rating": 9,
+  "price": 2000,
+  "about":"monument"
+},
+{
+  "id":3,
+  "city": "Chennai",
+  "place": "Marina Beach",
+  "rating": 8,
+  "price": 500,
+  "about":"Beach"
+},
+{
+  "id":4,
+  "city": "Chennai",
+  "place": "Arjuna's Penance",
+  "rating": 7,
+  "price": 1000,
+  "about":"Historical site"
+},
+{
+  "id":5,
+  "city": "Mumbai",
+  "place": "Hanging Garden",
+  "rating": 9,
+  "price": 2000,
+  "about":"Garden"
+}]
